@@ -1,0 +1,14 @@
+GET  http://localhost:3000/players/
+###
+
+POST http://localhost:3000/players/
+###
+
+GET http://localhost:3000/players/3/
+###
+
+PUT http://localhost:3000/players/1/
+###
+
+DELETE http://localhost:3000/players/1/
+###
